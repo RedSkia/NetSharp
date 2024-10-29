@@ -1,0 +1,8 @@
+# Binary files
+*/bin/
+
+# Intermediate files
+*/obj/
+
+# Visual Studio
+.vs/*
